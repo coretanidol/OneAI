@@ -1,10 +1,10 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![The Real OneAI](https://img.shields.io/badge/OneAI-Official_Build-ff0000.svg)](https://github.com/unlimited48/OneAI)
-[![DMCA Protected](https://img.shields.io/badge/DMCA-Protected-success.svg)](https://github.com/unlimited48/OneAI/blob/main/NOTICE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/unlimited48/OneAI)](https://github.com/unlimited48/OneAI/commits/main)
+[![The Real OneAI](https://img.shields.io/badge/OneAI-Official_Build-ff0000.svg)](https://github.com/coretanidol/OneAI)
+[![DMCA Protected](https://img.shields.io/badge/DMCA-Protected-success.svg)](https://github.com/coretanidol/OneAI/blob/main/NOTICE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/unlimited48/OneAI)](https://github.com/coretanidol/OneAI/commits/main)
 [![Termux](https://img.shields.io/badge/For-Termux-black?logo=android)](https://termux.dev)
-[![GitHub Repo stars](https://img.shields.io/github/stars/unlimited48/OneAI?style=social)](https://github.com/unlimited48/OneAI/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/unlimited48/OneAI?style=social)](https://github.com/unlimited48/OneAI/network/members)
+[![GitHub Repo stars](https://img.shields.io/github/stars/unlimited48/OneAI?style=social)](https://github.com/coretanidol/OneAI/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/unlimited48/OneAI?style=social)](https://github.com/coretanidol/OneAI/network/members)
 
 <p align="center">
   <img src="./logo.png" alt="OneAI" width="200"/>
@@ -33,13 +33,13 @@ Pastikan Anda sudah menginstal Python di Termux:
 pkg update && pkg upgrade
 pkg install python git
 2. Clone Repository
-git clone https://github.com/unlimited48/OneAI
+git clone https://github.com/coretanidol/OneAI
 cd OneAI
-3. Menjalankan OneAI
+4. Menjalankan OneAI
 python OneAI.py
 Saat pertama kali dijalankan, skrip akan otomatis mendeteksi modul yang hilang dan merapikan struktur file. 🛠️
 
-4. Konfigurasi API Key
+5. Konfigurasi API Key
 Masuk ke `Menu 5` (Kelola Key Interaktif). Masukkan API Key OpenRouter Anda (format: `sk-or-v1-...`). Sekarang Anda siap berinteraksi! ✨
 
 ## ⌨️ Usage
